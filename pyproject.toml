@@ -1,5 +1,5 @@
 [project]
-name = "Custom Sapcon"
+name = "custom_sapcon"
 authors = [
     { name = "Sapcon Instruments Pvt Ltd", email = "vihang.t@sapcon.in" }
 ]
